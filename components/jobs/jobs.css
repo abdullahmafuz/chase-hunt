@@ -1,0 +1,39 @@
+.job-head{
+    background-image: url("/static/img/jobs/job.jpg");
+    width: 100%;
+    height: 500px;
+}
+.jsearch{
+    position: relative;
+    top: 330px;
+    width: 80%;
+    height: auto;
+    padding: 40px;
+   
+    background-image: linear-gradient(to right top, #0f141a, #0c2238, #002f58, #003b79, #07479b);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+}
+
+.form-control:focus {
+    border-color: #FF0000;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+  }
+  .bg-image{
+      background-color: rgb(21, 122, 153);
+  }
+  .job-bg{
+      background-color: white;
+      color: black;
+  }
+  .jobs{
+    background-color:rgb(245, 245, 245);
+    color:#1F1F14;
+    
+  }
+  .pg{
+    justify-content: center;
+    justify-items: center;
+    color: #415094;
+    
+}

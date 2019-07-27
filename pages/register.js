@@ -6,15 +6,14 @@ import Footer from '../components/footer/footer';
 
 import Navbar from '../components/navbar/navbar';
 
-import Vcancybd from '../components/vacancy/vacancy'
-function vacancy() {
+import Registerbd from '../components/register/register';
+function register() {
     return( <div>
       <Navbar />
       
-      
-    <Vcancybd />
+      <Registerbd />
       <Footer />
       </div>);
   }
   
-  export default vacancy;
+  export default register;

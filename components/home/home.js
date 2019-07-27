@@ -45,7 +45,7 @@ function home (){
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="/static/img/home/slider/3.j"
+          src="/static/img/home/slider/3.jpg"
           alt="Third slide"
         />
 
@@ -366,6 +366,7 @@ function home (){
         Our Blog Posts
         </h1>
         <div className="row">
+          
           <div className="col-lg-4 col-md-4 col-sm-12 col-xs-12 blog-item">
             
             <div className="blog-item-wrapper">
@@ -446,6 +447,12 @@ function home (){
             </div>
             
           </div>
+
+
+
+
+
+          
         </div>
       </div>
     </section>

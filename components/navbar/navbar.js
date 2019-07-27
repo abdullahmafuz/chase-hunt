@@ -10,7 +10,7 @@ function navbar() {
         
         <Navbar className="bgcolor "  variant="light" collapseOnSelect expand="lg" >
             <div className="container">
-  <Navbar.Brand href="#home"><img className="nav_img nav_siz"src="/static/img/navbar/chase&hunt_logo.png"></img></Navbar.Brand>
+  <Navbar.Brand href="#home"><Link href="/index"><img className="nav_img nav_siz"src="/static/img/navbar/chase&hunt_logo.png"></img></Link></Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav" >
     
@@ -23,7 +23,7 @@ function navbar() {
                             <Link href="/employer"><a className="nav-link1 naveffect" >Employer service</a></Link>
                         </li>
                         <li className="nav-item">
-                            <Link href="/employer"><a className="nav-link1 naveffect" >Job search</a></Link>
+                            <Link href="/jobs"><a className="nav-link1 naveffect" >Job search</a></Link>
                         </li>
                         <li className="nav-item">
                             <Link href="/knowus"><a className="nav-link1 naveffect" >Know us</a></Link>

@@ -1,0 +1,10 @@
+.vcon{
+    background-image: url("/static/img/vacancy/bg-vacancy.jpg") ;
+    background-size: cover;
+   
+    width: 80%;
+    height: auto;
+}
+.txt-color{
+    color: rgb(0, 47, 255);
+}

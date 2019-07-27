@@ -21,7 +21,7 @@
 }
 
 .jobhome{
- background-color:#DEDEDE;
+ background-color:rgb(245, 245, 245);
     
 }
 .slider{
@@ -74,7 +74,7 @@
    }
  }
  .how{
-     background-color:#DEDEDE;
+     background-color:rgb(245, 245, 245);
      color:#1F1F14;
      padding: 20px;
  }
@@ -85,7 +85,7 @@
  }
 
 .service{
- background-color:#DEDEDE;
+ background-color:rgb(245, 245, 245);
  
  color:#1F1F14;
    padding: 50px;
@@ -177,7 +177,7 @@
 
 #blog{
  padding: 10px;
- background-color:#DEDEDE;
+ background-color:rgb(245, 245, 245);
      color:#1F1F14;
 }
 
@@ -231,9 +231,8 @@
 }
 
 .clients {
- background-color:#DEDEDE;
- color:#1F1F14;
- 
+  background-color:rgb(245, 245, 245);
+  color:#1F1F14;
 }
 .clients .items {
  margin: 15px;

@@ -1,20 +1,16 @@
-
-
-
+import Industrybd from '../components/industry/industrybd'
 
 import Footer from '../components/footer/footer';
 
 import Navbar from '../components/navbar/navbar';
-
-import Vcancybd from '../components/vacancy/vacancy'
-function vacancy() {
+function industry() {
     return( <div>
       <Navbar />
       
       
-    <Vcancybd />
+      <Industrybd />
       <Footer />
       </div>);
   }
   
-  export default vacancy;
+  export default industry;

@@ -1,0 +1,81 @@
+.knowcover{
+
+    background: url("/static/img/know/know.png");
+    background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+
+    width: 100%;
+    height: 500px;
+}
+
+
+.mission{
+
+    background: url("/static/img/know/mission.jpg");
+    background-position: center; 
+  background-repeat: no-repeat; 
+ 
+
+    width: 100%;
+    height: 500px;
+}
+
+.missi ul li {
+    list-style-type: upper-latin;
+  }
+
+  .we{
+
+    background: url("/static/img/know/we.jpg");
+    background-position: center; 
+  background-repeat: no-repeat; 
+ 
+
+    width: 100%;
+    height: 500px;
+}
+
+.kteam{
+
+    background: url("/static/img/know/team.jpg");
+    background-position: center; 
+  background-repeat: no-repeat; 
+ 
+
+    width: 100%;
+    height: 700px;
+}
+.kcolor{
+    color: aliceblue;
+    position: relative;
+    top: 250px;
+    font-size: 16px;
+}
+@media (max-width:500px){
+    .kcolor{
+        color: aliceblue;
+        position: relative;
+        top: 260px;
+        font-size: 13px;
+    }
+    .kteam{
+        height: 800px;
+    }
+}
+
+.kother{
+
+    background: url("/static/img/know/other.jpg");
+    background-position: center; 
+  background-repeat: no-repeat; 
+ 
+
+    width: 100%;
+    height: 500px;
+}
+.kother ul li {
+        list-style-type: none;
+        font-size: 20px;
+        padding: 6px;
+      }
